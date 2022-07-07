@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# shaonshop a react based ecommerce web application.
+
+Live Demo : https://shaonshop.netlify.app
+
+Portfolio : https://shaontechnical.blogspot.com
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
